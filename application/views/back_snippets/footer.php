@@ -1,0 +1,1 @@
+&copy; Copyright <?=date('Y')?> <span class="divider">|</span> <span class="hidden-xs">BuySellRent</span> <span class="divider hidden-xs">|</span> All rights reserved. Designed by <a href="http://rebelute.com">Rebelute</a>
